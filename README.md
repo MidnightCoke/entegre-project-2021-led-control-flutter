@@ -17,8 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Developed By
 
-#
-
 ### Efe Ünverdi
 ### Berkay Altaş
 ### Tarek Kalieh
