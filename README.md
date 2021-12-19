@@ -1,8 +1,6 @@
-# mm_app
+# Led Control App
 
-A new Flutter application.
-(only android)
-The app is capable to connect with arduio through Bluetooth and send commands
+The app is capable to connect with arduino through Bluetooth and send commands
 
 ## Getting Started
 
@@ -16,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Developed By
+
+#
+
+### Efe Ünverdi
+### Berkay Altaş
+### Tarek Kalieh
